@@ -6,8 +6,8 @@ event_inherited();
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 431B5717
-/// @DnDArgument : "var" "Vel_x"
-if(Vel_x == 0){	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDArgument : "var" "vel_x"
+if(vel_x == 0){	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
 	/// @DnDHash : 3DDDEA24
 	/// @DnDParent : 431B5717
