@@ -43,7 +43,8 @@
   },
   "name":"GameJamIntro Game",
   "resources":[
-    {"id":{"name":"Obj_character","path":"objects/Obj_character/Obj_character.yy",},},
+    {"id":{"name":"Obj_Character","path":"objects/Obj_Character/Obj_Character.yy",},},
+    {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
     {"id":{"name":"Back_trees_01","path":"sprites/Back_trees_01/Back_trees_01.yy",},},
     {"id":{"name":"Back_trees_02","path":"sprites/Back_trees_02/Back_trees_02.yy",},},
